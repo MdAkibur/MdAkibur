@@ -24,7 +24,7 @@ I am a **Full-Stack Software Engineer** focused on architecting high-performance
 
 | Project | Role | Summary | Core Stack |
 | :--- | :--- | :--- | :--- |
-| **FudosanWorks** | **Team Lead** | Recruitment & media platform for the Japanese real estate sector. | `Laravel` `Next.js` `AWS` |
+| **FudosanWorks** | **Team Lead** | Recruitment & media platform for the Japanese recruitment sector. | `Laravel` `Next.js` `AWS` |
 | **A Gel Ecosystem** | **Mobile Dev** | Dual-app ecosystem for users and shop owners in Japan. | `React Native` `Firebase` |
 | **Partner System** | **Full-Stack** | High-security management hub for the A Gel organization network. | `Amplify` `React` `Postgres` |
 | **BridgeBooks** | **Full-Stack** | Enterprise social media management platform for Japanese businesses. | `React` `Laravel` `MySQL` |
