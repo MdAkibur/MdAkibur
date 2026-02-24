@@ -4,9 +4,9 @@
 
 
 
-I am a **Full-Stack Software Engineer** focused on architecting high-performance web and mobile solutions. With extensive experience in the **Japanese tech ecosystem**, I specialize in bridging complex backend logic with seamless, user-centric frontends.
+I am a **Full-Stack Software Engineer** with **3+ years of professional experience** focused on architecting high-performance web and mobile solutions. With extensive experience in the **Japanese tech ecosystem**, I specialize in bridging complex backend logic with seamless, user-centric frontends.
 
-* **Currently:** Software Engineer at **JB Connect Ltd.**
+* **Currently:** Software Engineer at **JB Connect Ltd. (June 2023 – Present)**
 * **Expertise:** Cloud-Native Architecture, Real-time Systems, and API Design.
 * **Note:** Most of my production code resides in private enterprise repositories.
 
