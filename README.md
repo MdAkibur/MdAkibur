@@ -4,7 +4,7 @@
 
 # Hi, I'm Md Akibur Rahman Khan 👋
 
-I'm a **Senior Software Engineer (Team Lead)** with **3+ years of professional experience** building scalable web and mobile applications.
+I'm a **Software Engineer (Team Lead)** with **3+ years of professional experience** building scalable web and mobile applications.
 
 Currently, I work at **JB Connect Ltd.**, a **Japan-based software company operating from Bangladesh**, where I develop software solutions for Japanese clients. My work primarily focuses on backend development, scalable APIs, cloud-based applications, and leading development teams to deliver reliable software.
 
