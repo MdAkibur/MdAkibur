@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Senior+Software+Engineer;Team+Lead;Full-Stack+Developer&center=true&width=600&height=45&color=26D0CE&vCenter=true&size=24&pause=1200"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Team+Lead;Full-Stack+Developer&center=true&width=600&height=45&color=26D0CE&vCenter=true&size=24&pause=1200"/>
 </p>
 
 # Hi, I'm Md Akibur Rahman Khan 👋
